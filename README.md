@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aurelia0718
-- 👀 I’m currently a Website development and Programming student
+- 👀 I’m currently a Website developer and Programming student
 - 🌱 I’m currently learning at NACIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
